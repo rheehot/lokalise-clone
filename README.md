@@ -1,3 +1,3 @@
 # lokalise
 
-https://lokalise.com/[lokalise] 서비스를 react로 클론
+[lokalise](https://lokalise.com/) 서비스를 react로 클론

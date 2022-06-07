@@ -1,2 +1,4 @@
-# react-practice
-리액트 학습용 레포입니다.
+# lokalise
+
+https://lokalise.com/
+lokalise 서비스를 react로 클론
